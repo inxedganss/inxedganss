@@ -2,7 +2,7 @@
 My GitHub Profile
 ### Hi there, I'm Sean - aka [inxedganss][website] 👋
 [![Website](https://img.shields.io/website?label=Steam&style=for-the-badge&url=https%3A%2F%2Ficopro.org)](https://steamcommunity.com/id/inxedganss/)
-[![Cfx.re!](https://img.shields.io/badge/Say%20Thanks-CLICK HERE-brightgreen)](https://forum.cfx.re/u/inxedgnz/summary)
+[![Cfx.re!](https://img.shields.io/badge/Say%20Thanks-!-brightgreen)](https://forum.cfx.re/u/inxedgnz/summary)
 ## I'm a Students, Developer, and Gamer!!
 
 - 🌱 I’m currently learning everything 
