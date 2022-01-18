@@ -46,5 +46,4 @@
   <img align="center" width="100" src="https://raw.githubusercontent.com/PiyushSuthar/github-readme-quotes/master/logo.png" />
 
   <h1 align="center">Perang sekut Evak cabut</h1>
-  <h3 align="center">-----</h3>
 </p>
