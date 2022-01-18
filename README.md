@@ -1,6 +1,6 @@
 # inxedgnz
 My GitHub Profile
-### Hi there, I'm Sean - aka  [![inxedganss!](https://img.shields.io/badge/inxedganss-!-red)](https://steamcommunity.com/id/inxedganss) 👋
+### Hi there, I'm Sean - aka  [![inxedganss!](https://img.shields.io/badge/inxedganss-red)](https://steamcommunity.com/id/inxedganss) 👋
 
 
 <br>
