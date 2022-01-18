@@ -3,10 +3,6 @@ My GitHub Profile
 ### Hi there, I'm Sean - aka [inxedganss][website] 👋
 [![Website](https://img.shields.io/website?label=icopro.org&style=for-the-badge&url=https://steamcommunity.com/id/inxedganss/](https://steamcommunity.com/id/inxedganss/)
 [![Cfx.re!](https://img.shields.io/badge/Say%20Thanks-!-brightgreen)](https://forum.cfx.re/u/inxedgnz/summary)
-
-[![Steam](https://jagatplay.com/wp-content/uploads/2020/11/steam-logo.jpg&style=for-the-badge&url=https://steamcommunity.com/id/inxedganss/)](https://steamcommunity.com/id/inxedganss/)
-[![Cfx.re](https://avatars.githubusercontent.com/u/25160833?s=280&v=4)](https://forum.cfx.re/u/inxedgnz/summary)
-
 ## I'm a Students, Developer, and Gamer!!
 
 - 🌱 I’m currently learning everything 
