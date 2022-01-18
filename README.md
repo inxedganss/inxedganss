@@ -9,7 +9,7 @@
 [![Cfx.re!](https://img.shields.io/badge/-FiveM-important)](https://forum.cfx.re/u/inxedgnz/summary)
 [![Hr!](https://img.shields.io/badge/HR-HellRook-brightgreen)](https://discord.gg/zVuba3rRNQ)
 [![Idp!](https://img.shields.io/badge/IDP-INDOPRIDE-success)](https://discord.gg/indoprideroleplay)
-## I'm a Students, Developer, and Gamer!!
+## I'm a Students, and Gamer!!
 
 - 🌱 I’m currently learning everything 
 - 🎮 Game : I'm Valorant, FiveM & CS:GO Player 
