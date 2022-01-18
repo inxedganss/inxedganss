@@ -42,3 +42,9 @@
 <br />
 
 ---
+<p align="center">
+  <img align="center" width="100" src="https://raw.githubusercontent.com/PiyushSuthar/github-readme-quotes/master/logo.png" />
+
+  <h1 align="center">Github Readme Quotes</h1>
+  <h3 align="center">Quote of the day</h3>
+</p>
