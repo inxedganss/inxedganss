@@ -1,7 +1,7 @@
 # inxedgnz
 My GitHub Profile
 ### Hi there, I'm Sean - aka [inxedganss][website] 👋
-[![Website](https://img.shields.io/website?label=icopro.org&style=for-the-badge&url=https://steamcommunity.com/id/inxedganss/](https://steamcommunity.com/id/inxedganss/)
+[![Website](https://img.shields.io/website?label=icopro.org&style=for-the-badge&url=https%3A%2F%2Ficopro.org)](https://icopro.org)
 [![Cfx.re!](https://img.shields.io/badge/Say%20Thanks-!-brightgreen)](https://forum.cfx.re/u/inxedgnz/summary)
 ## I'm a Students, Developer, and Gamer!!
 
