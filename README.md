@@ -2,7 +2,7 @@
 My GitHub Profile
 ### Hi there, I'm Sean - aka [inxedganss] [website] 👋
 [![Website](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOj15lhy_7nSE5m0QHSybEBRJoYdhvy85en11WtZcLVH3JzxZgP10XKk49LckNgU-1wAU&usqp=CAU)](https://steamcommunity.com/id/inxedganss/)
-[![Cfx.re!](https://i0.wp.com/www.nesabamedia.com/wp-content/uploads/2021/03/FiveM-Logo-1-1.png?resize=512%2C512&ssl=1)](https://forum.cfx.re/u/inxedgnz/summary)
+[![Cfx.re!](https://cdn.discordapp.com/attachments/894496895811084338/909704035546837013/favicon.png)](https://forum.cfx.re/u/inxedgnz/summary)
 ## I'm a Students, Developer, and Gamer!!
 
 - 🌱 I’m currently learning everything 
