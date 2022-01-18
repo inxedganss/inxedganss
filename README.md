@@ -1,7 +1,7 @@
 # inxedgnz
 My GitHub Profile
 ### Hi there, I'm Sean - aka  [![inxedganss!](https://img.shields.io/badge/inxedganss-!-red)](https://steamcommunity.com/id/inxedganss) 👋
-[![Website](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOj15lhy_7nSE5m0QHSybEBRJoYdhvy85en11WtZcLVH3JzxZgP10XKk49LckNgU-1wAU&usqp=CAU)](https://steamcommunity.com/id/inxedganss/)
+[![Website](https://img.shields.io/badge/-Steam-lightgrey)](https://steamcommunity.com/id/inxedganss/)
 [![Cfx.re!](https://cdn.discordapp.com/attachments/845591897032228905/932913379859898378/Screenshot_2022-01-18_152202.png)](https://forum.cfx.re/u/inxedgnz/summary)
 ## I'm a Students, Developer, and Gamer!!
 
