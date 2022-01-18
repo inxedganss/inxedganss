@@ -2,7 +2,7 @@
 My GitHub Profile
 ### Hi there, I'm Sean - aka [inxedganss][Steam] 👋
 
-[![Steam](https://jagatplay.com/wp-content/uploads/2020/11/steam-logo.jpg)](https://steamcommunity.com/id/inxedganss/)
+[![Steam](https://jagatplay.com/wp-content/uploads/2020/11/steam-logo.jpg?color=1DA1F2&logo=twitter&style=for-the-badge)](https://steamcommunity.com/id/inxedganss/)
 [![Cfx.re](https://avatars.githubusercontent.com/u/25160833?s=280&v=4)](https://forum.cfx.re/u/inxedgnz/summary)
 
 ## I'm a Students, Developer, and Gamer!!
