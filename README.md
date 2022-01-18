@@ -4,7 +4,7 @@
 
 ### Connect with me:
 [![Website](https://img.shields.io/badge/inxedganss-grey?style=flat-square&logo=Steam)](https://steamcommunity.com/id/inxedganss/)
-[![Cfx.re!](https://img.shields.io/badge/-FiveM-important)](https://forum.cfx.re/u/inxedgnz/summary)
+[![Cfx.re!](https://img.shields.io/badge/inxedganss-orange?style=flat-square&logo=FiveM)](https://forum.cfx.re/u/inxedgnz/summary)
 [![Hr!](https://img.shields.io/badge/HR-HellRook-brightgreen)](https://discord.gg/zVuba3rRNQ)
 [![Idp!](https://img.shields.io/badge/IDP-INDOPRIDE-success)](https://discord.gg/indoprideroleplay)
 ## I'm a Students, and Gamer!!
