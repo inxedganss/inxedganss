@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/badge/inxedganss-grey?style=flat-square&logo=Steam)](https://steamcommunity.com/id/inxedganss/)
 [![Cfx.re!](https://img.shields.io/badge/inxedganss-orange?style=flat-square&logo=FiveM)](https://forum.cfx.re/u/inxedgnz/summary)
 [![Hr!](https://img.shields.io/badge/HellRook-black?style=flat-square&logo=Hackster)](https://discord.gg/zVuba3rRNQ)
-[![Idp!](https://img.shields.io/badge/IDP-INDOPRIDE-success)](https://discord.gg/indoprideroleplay)
+[![Idp!](https://img.shields.io/badge/INDOPRIDE-white?style=flat-square&logo=sharp)](https://discord.gg/indoprideroleplay)
 ## I'm a Students, and Gamer!!
 
 - 🌱 I’m currently learning everything 
