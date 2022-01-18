@@ -13,12 +13,6 @@ My GitHub Profile
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 ---
-### Connect with me:
-
-<img align="left" alt="SeanXlav | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" alt="Inxedgnz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
-<br />
 
 ### Languages and Tools:
 
