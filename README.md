@@ -43,7 +43,7 @@
 
 ---
 <p align="center">
-  <img align="center" width="100" src="https://raw.githubusercontent.com/PiyushSuthar/github-readme-quotes/master/logo.png" />
+  <img align="center" width="100" src="https://raw.githubusercontent.com/inxedganss/photo/main/skul1l.jpeg?token=GHSAT0AAAAAAB4ZWJ3ABUPVLQ4WRJJOU2RGY5L3VXQ" />
 
   <h1 align="center">Perang sekut Evak cabut</h1>
 </p>
